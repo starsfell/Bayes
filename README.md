@@ -1,0 +1,2 @@
+# Bayes
+Naive_bayes
